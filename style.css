@@ -1,0 +1,19 @@
+div {
+    margin: 30px;
+    padding: 40px;
+    width: 500px;
+    background-color: #e8e8e8;
+    border-radius: 50px;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 24px;
+    color: #0b0b0b;
+}
